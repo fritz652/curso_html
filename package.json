@@ -1,0 +1,14 @@
+{
+  "name": "curso_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve src/index.html"
+  },
+  "author": "Fritz Guzman",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
